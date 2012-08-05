@@ -1,7 +1,7 @@
 MS Web Dev stuff
 ================
 
-This is just to make it easy to use vbnet.vim and aspnet.vim from  @tpope since he did not make them available for easy consumption by his awesome [pathogen.vim](https://github.com/tpope/vim-pathogen) plugin.
+This is just to make it easy to use vbnet.vim and aspnet.vim from  [@tpope](https://github.com/tpope) since he did not make them available for easy consumption by his awesome [pathogen.vim](https://github.com/tpope/vim-pathogen) plugin.
 
 Get the originals from vim.org.
 
@@ -18,7 +18,7 @@ then simply copy and paste:
 Contributing
 ------------
 
-*Yeh, what @tpope says:*
+*Yeh, what [@tpope](https://github.com/tpope) says:*
 
 Before reporting a bug, you should try stripping down your Vim
 configuration and removing other plugins.  The sad nature of VimScript
