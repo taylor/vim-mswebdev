@@ -18,6 +18,9 @@ then simply copy and paste:
 Contributing
 ------------
 
+To avoid repeating...
+
+```
 Before reporting a bug, you should try stripping down your Vim
 configuration and removing other plugins.  The sad nature of VimScript
 is that it is fraught with incompatibilities waiting to happen.  I'm
@@ -31,6 +34,8 @@ dozens of times that
 are absolute rules on my own repositories, so I may lack the energy to
 explain it to you yet another time.  And please, if I ask you to change
 something, `git commit --amend`.
+```
+-- @tpope
 
 
 License
